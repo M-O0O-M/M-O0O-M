@@ -4,9 +4,10 @@
 	<br>
 </div>
 
-**I love code**&nbsp;&nbsp;![](cat-typing.gif)
+**                        &nbsp;&nbsp;![](cat-typing.gif)
+**                        I love code
 
-### 🛠 &nbsp;Languages and Tools
+###               🛠 &nbsp;Languages and Tools 🛠
 
 <table align="center">
   <tr>
