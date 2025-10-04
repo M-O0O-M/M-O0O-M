@@ -4,10 +4,10 @@
 	<br>
 </div>
 
-**                        &nbsp;&nbsp;![](cat-typing.gif)
-**                        I love code
+<h2 align="center">&nbsp;&nbsp;![](cat-typing.gif)</h2>
+<h3 align="center">I love code</h3> 
 
-###               🛠 &nbsp;Languages and Tools 🛠
+<h2 align="center">🛠 &nbsp;Languages and Tools 🛠</h2>
 
 <table align="center">
   <tr>
