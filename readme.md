@@ -4,8 +4,8 @@
 	<br>
 </div>
 
-<h2 align="center">&nbsp;&nbsp;![](cat-typing.gif)</h2>
-<h3 align="center">I love code</h3> 
+	<img src="./cat-typing.gif" align="center" ref="git" alt="I love code">
+<h3 align="center" style="color: red">I love code</h3> 
 
 <h2 align="center">🛠 &nbsp;Languages and Tools 🛠</h2>
 
