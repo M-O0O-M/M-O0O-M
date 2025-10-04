@@ -1,4 +1,10 @@
 
+<div align="center">
+  <img src="welcome-header.gif" alt="welcome to my github profile">
+  <br>
+  <br>
+</div>
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&center=true&size=32&vCenter=true&height=80&pause=100&duration=4000&lines=👋🏻+Hi,+I'm+O0O-Tech;Senior+Full+Stack+Developer;MERN+Stack+Developer;Blockchain+Developer;" alt="title" /> 
 </p>
