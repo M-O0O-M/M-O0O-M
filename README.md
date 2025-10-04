@@ -10,7 +10,8 @@
 </p>
 
 <div align="center">
-<h1 style="color: red;">I love code.</h1>
+
+**I love code.**
 
 <img src="cat-typing.gif" align="center" width="15%" align="center" display="block">
  </div>
