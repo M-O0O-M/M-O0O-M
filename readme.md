@@ -4,7 +4,7 @@
 	<br>
 </div>
 <div align="center">
-<h1 align="center" style="color: red;">I love code</h1>
+<h1 style="color: red;">I love code</h1>
 
 <img src="cat-typing.gif" align="center" width="15%" align="center" display="block">
  </div>
