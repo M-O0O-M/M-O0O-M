@@ -3,8 +3,8 @@
 	<br>
 	<br>
 </div>
-
-	<img src="./cat-typing.gif" align="center" ref="git" alt="I love code">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=O0O-tech&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+	<img src="cat-typing.gif" align="center" width="150%">
 <h3 align="center" style="color: red">I love code</h3> 
 
 <h2 align="center">🛠 &nbsp;Languages and Tools 🛠</h2>
