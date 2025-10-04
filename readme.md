@@ -3,7 +3,7 @@
 	<br>
 	<br>
 </div>
-<img src="cat-typing.gif" align="center" width="30%">
+<img src="cat-typing.gif" align="center" width="15%" align="center">
 <h3 align="center" style="color: red">I love code</h3> 
 
 <h2 align="center">🛠 &nbsp;Languages and Tools 🛠</h2>
