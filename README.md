@@ -87,14 +87,16 @@
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=M-O0O-M&theme=react&border=61dafb&hide_border=true" alt="M-O0O-M" />
     </a>
-    |<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=M-O0O-M&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>|
-	  | ------------- | ------------- |
+    </a>
+	
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
-   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-O0O-M&layout=compact&theme=buefy&hide_border=true" /></a>
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+	   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-O0O-M&layout=compact&theme=buefy&hide_border=true&border_color=61dafb" />
+   </a>
   </div>
   <br>
 
